@@ -7,4 +7,4 @@
 ### Pedro Ernesto Duarte Pilchowski - RA: 156.331
 
 # Como executar:
-Comece abrindo o notebook presente em src/cnn.ipynb, e execute as células em sequência. Ao chegar ao fim do arquivo, faça o mesmo com src/transformer.ipynb.
+Comece abrindo o notebook presente em `src/cnn.ipynb`, e execute as células em sequência. Ao chegar ao fim do arquivo, faça o mesmo com `src/transformer.ipynb`.
